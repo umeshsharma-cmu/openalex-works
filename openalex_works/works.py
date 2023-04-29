@@ -1,5 +1,6 @@
 import requests
 
+
 class OpenAlexWorks:
     def __init__(self, doi):
         self.doi = doi
